@@ -10,4 +10,5 @@ class seseorang{
 };
 
 class Joko :public seseorang {
-    
+    void pesan() {
+        
