@@ -11,4 +11,8 @@ class seseorang{
 
 class Joko :public seseorang {
     void pesan() {
-        
+        cout << "Pesan dari Joko" << endl;
+    }
+};
+
+
